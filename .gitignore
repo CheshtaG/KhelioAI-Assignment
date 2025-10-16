@@ -269,7 +269,7 @@ backend/output/
 
 # Data files
 *.csv
-*.json
+*-lock*.json
 *.xml
 *.parquet
 *.feather
